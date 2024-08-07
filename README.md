@@ -14,7 +14,7 @@ Gaming
 / Cycling
 / Watching Movies
 / Learning to Code
-Too many dislikes, too lazy :P
+|| Too many dislikes, too lazy :P
 
 ## I currently finished my freshman year as a CS student. I have learned the basics of C program during the course! I am currently studying the basics of Java and discovering more as I go!
 
