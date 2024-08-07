@@ -5,9 +5,9 @@
 ## Welcome to my profile!
 
 ## 🔎 ABOUT ME 🔎
-##👨 Age: 19
-##📚 Course: Bachelor of Science in Computer Science
-##🏫 University: Polytechnic University of the Philippines - Manila
+##👨 Age: 19\n
+##📚 Course: Bachelor of Science in Computer Science\n
+##🏫 University: Polytechnic University of the Philippines - Manila\n
 
 ## 🙌 MY LIKES 🙌 
 ##Gaming
