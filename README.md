@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-## Profile
 
 ## Welcome to my profile!
 
