@@ -6,8 +6,8 @@
 
 ## 🔎 ABOUT ME 🔎
 👨 Age: 19
-|| 📚 Course: Bachelor of Science in Computer Science\n
-|| 🏫 University: Polytechnic University of the Philippines - Manila\n
+|| 📚 Course: Bachelor of Science in Computer Science
+|| 🏫 University: Polytechnic University of the Philippines - Manila
 
 ## 🙌 MY LIKES 🙌 
 Gaming
